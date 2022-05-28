@@ -2,7 +2,7 @@
 
 A quick syntax cheat-list for writing markdown files referred from [this](https://www.youtube.com/watch?v=HUBNt18RFbo) video by [Brad Traversy](https://www.youtube.com/c/TraversyMedia).
 
-Open the README.md file to see this file's contents
+Open the README.md file and click on "display source blob" to see this file's contents.
 
 ❤️ &ensp;Glen Pereira <!-- (emoji and space testing).. use this to add multiple space in a line. also &emsp; for a bit bigger space -->
 
